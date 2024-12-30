@@ -1,4 +1,3 @@
-# TinDog-Assignment_3
 # TinDog
 A website made exclusively for Dogs.
 
